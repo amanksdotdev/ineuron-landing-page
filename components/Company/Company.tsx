@@ -9,7 +9,7 @@ export const Company = () => {
     <section id="companies" className="py-12 bg-white">
       <Container>
         <h3 className="text-4xl text-center font-bold mb-12">
-          Our Achiever's Work with
+          Our Achiever&apos;s Work with
         </h3>
         <div className="py-4 h-20 overflow-hidden">
           <Carousel
