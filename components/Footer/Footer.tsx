@@ -40,6 +40,7 @@ export const Footer = () => {
                 </span>
               </div>
             </div>
+            <img src="/assets/images/isomark.svg" />
           </div>
           <div className="flex-1">
             <h3 className="text-4xl font-medium text-[#283278] border-b-4 border-[orange] pb-2 mb-4">
