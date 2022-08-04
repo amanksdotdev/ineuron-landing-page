@@ -1,0 +1,13 @@
+export const primary = "#3a10e5";
+export const dark = "#0a0d1c";
+export const purple = "#6400e4";
+export const yellow = "#ffd300";
+export const darkBlue = "#10162f";
+export const gary1 = "#656565";
+export const gray2 = "#696969";
+export const gray3 = "#828285";
+export const gray4 = "#424242";
+export const gray5 = "#484848";
+export const gray6 = "#555";
+export const black50t = "rgba(0,0,0,0.5)";
+export const darklight = "#2e3644";

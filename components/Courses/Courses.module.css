@@ -1,0 +1,11 @@
+.courseType:not(.active):hover {
+  color: blue;
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: transform 0.4s;
+}
+
+.courseType.active {
+  border-bottom: 2px solid blue;
+  color: blue;
+}
