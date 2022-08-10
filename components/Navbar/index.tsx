@@ -28,7 +28,7 @@ export const Navbar = () => {
   }, []);
 
   return (
-    <nav className="min-h-[5rem] sticky top-0 z-10 p-4" ref={navRef}>
+    <nav className="min-h-[5rem] sticky top-0 z-20 p-4" ref={navRef}>
       <div className="container mx-auto h-full flex justify-between items-center w-11/12 gap-10">
         <div>
           <img
