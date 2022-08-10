@@ -1,14 +1,14 @@
-## iNeuron Landing Page
+# iNeuron Landing Page
 
-This landing page was built on 4 Aug by **Aman Kumar Singh** for the Fullstack JS Bootcamp hackathon by iNeuron.
-
-
+[iNeuron](https://ineuron.ai/) is an EdTech business cum community run by various creators. This is a concept landing page of their original website.
 
 
-https://user-images.githubusercontent.com/40262320/182832087-3ea5d237-95d4-47f4-b6d6-e5f9cee90f12.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/40262320/183876433-f8b70c3a-ce0a-4310-bb9b-d4a3f9b9e5c6.gif)
 
 
-### Tech Used
+
+
+## 👨🏻‍💻 Tech Used
 - NextJS
 - TailwindCSS
 
